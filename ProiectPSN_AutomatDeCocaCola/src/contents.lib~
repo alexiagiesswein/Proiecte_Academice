@@ -1,0 +1,19 @@
+1733
+~E 1 "./src/POARTA_SAU3.vhd" 1 poarta_sau3
+~A 1 "./src/POARTA_SAU3.vhd" 6 flux
+~E 1 "./src/MUX_2_1.vhd" 1 mux
+~A 1 "./src/MUX_2_1.vhd" 6 flux
+~E 1 "./src/Comparator_arch_struct.vhd" 1 comparator
+~A 1 "./src/Comparator_arch_struct.vhd" 7 struct
+~E 1 "./src/POARTA_NOT.vhd" 1 poarta_not
+~A 1 "./src/POARTA_NOT.vhd" 6 flux
+~E 1 "./src/POARTA_XNOR.vhd" 1 poarta_xnor
+~A 1 "./src/POARTA_XNOR.vhd" 6 flux
+~E 1 "./src/POARTA_SI.vhd" 1 poarta_si
+~A 1 "./src/POARTA_SI.vhd" 6 flux
+~E 1 "./src/POARTA_XOR3.vhd" 1 poarta_xor3
+~A 1 "./src/POARTA_XOR3.vhd" 6 flux
+~E 1 "./src/ARCH_COMP.vhd" 1 sumator_complet
+~A 1 "./src/ARCH_FLUX.vhd" 6 flux
+~A 1 "./src/ARCH_COMP.vhd" 6 comp
+~A 1 "./src/ARCH_STRUCT.vhd" 6 struct

@@ -1,0 +1,70 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "a#20#UNSIGNED(7 downto 0)1 ricd7 0 e#9#std_logicc9 UX01ZWLH-"
+I 2 "e#9#std_logicc9 UX01ZWLH-"
+$BUS INOUT 33 1 8 R
+$SC 1-29/4
+$IN +5 2 F0
+$IN +4 2 F1
+$IN +4 2 FS
+$IN +4 2 B
+$IN +4 2 CLK
+$BUS S 86 1 8 M
+$SC 54-82/4
+$BUS S +37 1 8 Suma
+$SC 87-+28/4
+$IN +5 2 F2
+$ENDTIME 100000
+$WAVES 50
+=0 T 0
+=1 T 100k
+$VALUES
+V 2
+0
+1
+$END
+$WAVES 1-29/4
+*0
+=2 D 0 1
+$VALUES
+V 2
+0
+U
+$END
+$WAVES +5 +4-54/8 +4
+*0
+$VALUES
+V 1
+0
+$END
+$WAVES 42 +78
+*0
+$VALUES
+V 1
+1
+$END
+$WAVES 62 +4 78
+*0
+=3 D 0 3
+$VALUES
+V 2
+U
+1
+$END
+$WAVES 70 +4 +8
+*0
+*2
+$VALUES
+V 2
+U
+0
+$END
+$WAVES +5-+28/4
+*0
+*2
+$VALUES
+V 2
+U
+X
+$END
+$ENDWAVE

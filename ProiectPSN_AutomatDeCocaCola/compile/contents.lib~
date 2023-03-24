@@ -1,0 +1,27 @@
+10304
+~E 1 "./src/Comparator.vhd" 7 poarta_xnor
+~A 1 "./src/Comparator.vhd" 13 flux
+~E 1 "./src/Poarta_SAU2.vhd" 4 poarta_sau
+~A 1 "./src/Poarta_SAU2.vhd" 9 flux
+~E 1 "./src/Comparator.vhd" 5 comparator
+~A 1 "./src/Comparator.vhd" 10 struct
+~A 1 "./src/Comparator.vhd" 11 comp
+~E 1 "./src/BISTABIL_D.vhd" 4 bistabil_d
+~A 1 "./src/BISTABIL_D.vhd" 10 comp
+~E 1 "./src/Poarta_NOT.vhd" 4 poarta_not
+~A 1 "./src/Poarta_NOT.vhd" 9 flux
+~E 1 "./src/Poarta_SI.vhd" 4 poarta_si
+~A 1 "./src/Poarta_SI.vhd" 9 flux
+~E 1 "./src/Poarta_SAU.vhd" 4 poarta_sau3
+~A 1 "./src/Poarta_SAU.vhd" 9 flux
+~E 1 "./src/Poarta_SI8.vhd" 4 poarta_si8
+~A 1 "./src/Poarta_SI8.vhd" 9 flux
+~E 1 "./src/Scazator.vhd" 5 scazator
+~A 1 "./src/Scazator.vhd" 10 comp
+~E 1 "./src/PROIECT.vhd" 5 proiect
+~A 1 "./src/PROIECT.vhd" 15 struct
+~E 1 "./src/Sumator.vhd" 5 sumator
+~A 1 "./src/Sumator.vhd" 10 comp
+~E 1 "./src/Sumator.vhd" 5 sumator_complet
+~A 1 "./src/Sumator.vhd" 26 flux
+~A 1 "./src/Sumator.vhd" 10 comp
