@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Thu Oct 20 16:52:19 2022
+# Process ID: 5248
+# Current directory: G:/Anu2/AC/mips
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15520 G:\Anu2\AC\mips\mips.xpr
+# Log file: G:/Anu2/AC/mips/vivado.log
+# Journal file: G:/Anu2/AC/mips\vivado.jou
+# Running On: DESKTOP-E6R4O7J, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 25642 MB
+#-----------------------------------------------------------
+start_gui
+open_project G:/Anu2/AC/mips/mips.xpr
+update_compile_order -fileset sources_1
